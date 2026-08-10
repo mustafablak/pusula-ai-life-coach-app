@@ -17,8 +17,6 @@
 </p>
 
 <p align="center">
-
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](RELEASE_LINK)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Pusula-6C63FF?style=for-the-badge)](https://mustafablak.github.io/pusula-ai-life-coach-app/)
 
 </p>
