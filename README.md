@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Pusula-6C63FF?style=for-the-badge)](https://mustafablak.github.io/pusula-ai-life-coach-app/)
 
 </p>
