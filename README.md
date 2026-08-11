@@ -15,10 +15,9 @@
 <p align="center">
   Flutter • Dart • Groq API • Llama 3.3 • Hive
 </p>
-
-<p align="center">
 🚀 Live Demo
 Try Pusula AI Life Coach directly in your browser.
+<p align="center">
   
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Pusula-6C63FF?style=for-the-badge)](https://mustafablak.github.io/pusula-ai-life-coach-app/)
 
