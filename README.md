@@ -22,7 +22,7 @@ Try Pusula AI Life Coach directly in your browser.
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Pusula-6C63FF?style=for-the-badge)](https://mustafablak.github.io/pusula-ai-life-coach-app/)
 
 </p>
-## 📱 About the Project
+📱 About the Project
 
 **Pusula** is a cross-platform personal development and habit management
 application designed to help users build consistent daily routines,
