@@ -215,7 +215,7 @@ Water Drop
 Oasis Progress
       ↓
 Next Growth Stage
-text'''
+```
 
 This creates a direct relationship between user activity and
 visual progression.
